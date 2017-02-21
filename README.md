@@ -2,7 +2,7 @@
 
 As easy method how to add a Google chart to any web form element.
 
-OnClick methode also added to bars where is posible! Details, displayed in a Bootstrap modal!
+OnClick methode also added to bars where was possible! Details, displayed in a Bootstrap modal!
 
 Database saved to Charts.mdf file. To connect this database you have to edit Web.config file connectionString section AttachDbFileName to change to the right path!
 
